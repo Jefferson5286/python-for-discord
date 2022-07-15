@@ -1,0 +1,7 @@
+{
+  "commands": {
+    "open_python_interpreter": "-i",
+    "exit_python_interpreter": "-exit",
+    "run_code": "-e"
+  }
+}
